@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://www.codecrook.dev",
     title: "the-mark-gatsby",
+    description: "A practice project of creating a blog using Gatsby and Markdown"
   },
   plugins: [
     {
