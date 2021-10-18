@@ -1,10 +1,13 @@
 import * as React from "react";
+import Header from '../components/Header';
 
 
 // markup
 const IndexPage = () => {
   return (
-    <div>The Mark Gatsby</div>
+    <>
+      <Header />
+    </>
   );
 };
 

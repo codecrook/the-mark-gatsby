@@ -18,6 +18,6 @@ const TitleAndDescription = ({ data }) => {
             </p>
         </div>
     );
-}
+};
 
 export default TitleAndDescription;
